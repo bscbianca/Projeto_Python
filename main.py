@@ -9,7 +9,7 @@ df = pd.read_csv(
     )
 df
 
-#datframe limpo
+#dataframe limpo
 df_raw = df.loc[df["air_time"] > 0]
 
 #função tempo de voo em horas
