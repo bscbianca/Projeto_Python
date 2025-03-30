@@ -5,7 +5,7 @@ Repositório criado para entrega do projeto Python do curso DE06 - Professora Ca
 
 Bianca Santos Carneiro
 
-Fernando Molina
+Fernando Tarrone Molina
 
 Guilherme Masao Tsuyukubo
 
