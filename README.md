@@ -1,4 +1,4 @@
-# Projeto_Python
+# Projeto Python
 Repositório criado para entrega do projeto Python do curso DE06 - Professora Carolina Zambelli Kamada
 
 # Membros:
