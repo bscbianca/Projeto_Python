@@ -19,6 +19,7 @@ def tempo_voo_horas(coluna_tempo_voo):
 
 def turno_partida(coluna_data_hora):
 
-  return pd.cut(coluna_data_hora,
+   df = pd.cut(coluna_data_hora,
                   bins=[-1, 5, 11, 17, 23],
                   labels=['MADRUGADA', 'MANHÃ', 'TARDE', 'NOITE'])
+   return df
